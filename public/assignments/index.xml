@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>C101 Friday Hongtao</title>
+    <link>https://c1010.netlify.com/assignments/</link>
+    <description>Recent content on C101 Friday Hongtao</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 16 Jan 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://c1010.netlify.com/assignments/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>1st Week_Media Journal_Due on Jan 24th 7 a.m.</title>
+      <link>https://c1010.netlify.com/assignments/media-journal/</link>
+      <pubDate>Thu, 16 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://c1010.netlify.com/assignments/media-journal/</guid>
+      <description>Due: Friday, Jan. 24, 7 a.m., (before your discussion section) Best Practice: Think about the assignment prior to Jan. 17 discussion section so if needed, you can ask questions about the assignment during discussion. Submission: Upload to Canvas You can download this template: Template You can download this example: Example  Description: For this short project you will track your media consumption for 24 hours. In your journal, keep track of what media you consume, how it is paid for (both direct and indirect funding), and what technologies/platforms you use to consume it.</description>
+    </item>
+    
+  </channel>
+</rss>

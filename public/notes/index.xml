@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Notes on C101 Friday Hongtao</title>
+    <link>https://c1010.netlify.com/notes/</link>
+    <description>Recent content in Notes on C101 Friday Hongtao</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://c1010.netlify.com/notes/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://c1010.netlify.com/notes/week2-3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://c1010.netlify.com/notes/week2-3/</guid>
+      <description>week 2-3 Guest Speaker Media Journal assignment
+Media Placement Exam (MPE)&amp;ndash; Next Friday For potential journalism majors.
+  Once you post your material, audiences will interpret in their own ways.
+  Media literary: transforming info into knowledge
+  Law of closure
+  Filter bubble
+  confirmation bias
+  information satisficing
+  All media are constructed with a purpose and a particulur point of view.</description>
+    </item>
+    
+  </channel>
+</rss>

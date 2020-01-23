@@ -1,0 +1,38 @@
+---
+title: "MSCH-C101"
+subtitle: "Friday Discussion Session"
+author: "Hongtao Hao"
+institute: "Media School, IU"
+date: "2020/01/23 (updated: `r Sys.Date()`)"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+class: inverse
+background-image: url(https://media1.giphy.com/media/Sr3Tm4BnEJlyupGbSd/giphy.gif?cid=790b76115e6d803f11c5f13517c9178d1fcf45537ad472e1&rid=giphy.gif)
+background-size: 20%
+background-position: 90% 20%
+
+# Today's Schedule
+
+- Attendence checking
+
+- A short quiz
+
+- Review previous classes
+
+- Discuss media journal assignment
+
+- Introduce Media Placement Exam
+
+- What's Next
+
+---
+class: inverse
+background-image: url(/media/2nd-week-quiz.png)
+
+# Quiz Time!
