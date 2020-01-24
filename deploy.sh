@@ -3,4 +3,4 @@ hugo #重新建站
 git add .  #告诉 git 加东西
 msg="rebuilding site $(date)" #获得此次更新的日期
 git commit -m "$msg" #让 Git 在 Github 仓库写入这次更新的日期
-git push oring master #上传
+git push origin master #上传

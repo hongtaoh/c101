@@ -19,7 +19,7 @@ Media is a plural of medium. It is wrong to term the "media" so broadly. We shou
 - Entertainment media
 - Social media
 - ..
-We should know that these categories are based on **purpose**
+We should know that these categories are based on their **purpose**
 
 The primary goal of media companies is to make profits. 
 
