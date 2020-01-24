@@ -3,7 +3,7 @@ title: "MSCH-C101"
 subtitle: "Friday Discussion Session"
 author: "Hongtao Hao"
 institute: "Media School, IU"
-date: "2020/01/23 (updated: `r Sys.Date()`)"
+date: "2020-01-24 (updated: `r Sys.Date()`)"
 output:
   xaringan::moon_reader:
     lib_dir: libs

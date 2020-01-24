@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on C101 Friday Hongtao</title>
-    <link>https://c1010.netlify.com/</link>
-    <description>Recent content in Home on C101 Friday Hongtao</description>
+    <title>C101 Friday Hongtao</title>
+    <link>https://c1010.netlify.com/review/</link>
+    <description>Recent content on C101 Friday Hongtao</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 24 Jan 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://c1010.netlify.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://c1010.netlify.com/review/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -32,32 +32,6 @@ Access   old times: radio, newspaper, TV, &amp;hellip;
   now: digital divide
   Analyze The foundation of media analysis is acknowledging that all media is constructed with a purpose and a particular point of view. Renee Hobbs:
  who created this message and what is the purpose? What techniques does it use to attract and hold attention?</description>
-    </item>
-    
-    <item>
-      <title>1st Week_Media Journal_Due on Jan 24th 7 a.m.</title>
-      <link>https://c1010.netlify.com/assignments/media-journal/</link>
-      <pubDate>Thu, 16 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://c1010.netlify.com/assignments/media-journal/</guid>
-      <description>Due: Friday, Jan. 24, 7 a.m., (before your discussion section) Best Practice: Think about the assignment prior to Jan. 17 discussion section so if needed, you can ask questions about the assignment during discussion. Submission: Upload to Canvas You can download this template: Template You can download this example: Example  Description: For this short project you will track your media consumption for 24 hours. In your journal, keep track of what media you consume, how it is paid for (both direct and indirect funding), and what technologies/platforms you use to consume it.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://c1010.netlify.com/notes/week2-3/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://c1010.netlify.com/notes/week2-3/</guid>
-      <description>week 2-3 Guest Speaker Media Journal assignment
-Media Placement Exam (MPE)&amp;ndash; Next Friday For potential journalism majors.
-  Once you post your material, audiences will interpret in their own ways.
-  Media literary: transforming info into knowledge
-  Law of closure
-  Filter bubble
-  confirmation bias
-  information satisficing
-  All media are constructed with a purpose and a particulur point of view.</description>
     </item>
     
   </channel>
