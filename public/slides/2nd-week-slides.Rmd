@@ -26,7 +26,7 @@ background-position: 90% 20%
 
 - Introduce Media Placement Exam
 
-- A short quiz
+- A short quiz (not scored, just for fun)
 
 - Review previous classes
 
@@ -74,6 +74,7 @@ background-size: 50%
 class: inverse
 # 1st week, Wednesday (Class)
 
+--
 # Key Point 1.1: Some wrong comments:
 - Media is biased
 
@@ -115,6 +116,7 @@ class: inverse
 class: inverse
 # 2st week, Wednesday (Class)
 
+--
 # Key Point 2.1: Definition of Media Literacy
 > Media Literacy is the ability to access, analyze, evaluate, create, and act using all forms of communication.<sup>1</sup>
 
