@@ -62,7 +62,7 @@ background-size: 35%
 
 # Quiz Time! 5 mins
 
-# Scan the QR code with your phone camera. 
+# Pin: 2913500
 
 ---
 class: inverse
