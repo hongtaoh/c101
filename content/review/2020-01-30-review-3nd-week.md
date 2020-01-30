@@ -1,8 +1,8 @@
 ---
-title: Review of Third Week Class (Monday (1/27))
+title: Review of Third Week Class (Monday (1/27)
 author: 'Hongtao Hao'
 date: '2020-01-29'
-slug: review-3rd-week
+slug: 3rd-week
 categories: []
 tags: []
 ---

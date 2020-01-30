@@ -41,7 +41,7 @@ class: inverse
 
 # Reviewing the 3rd week class
 
-[Review section](/review/)
+[Review section](/review/3rd-week/)
 
 ---
 class: inverse

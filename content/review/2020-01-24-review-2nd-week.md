@@ -2,7 +2,7 @@
 title: Review of Second Week Class (Wednesday (1/21)
 author: 'Hongtao Hao'
 date: '2020-01-25'
-slug: review-2nd-week
+slug: 2nd-week
 categories: []
 tags: []
 ---

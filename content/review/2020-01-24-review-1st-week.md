@@ -2,7 +2,7 @@
 title: Review of First Week Class (Wednesday (1/15)
 author: 'Hongtao Hao'
 date: '2020-01-24'
-slug: review-1st-week
+slug: 1st-week
 categories: []
 tags: []
 ---
