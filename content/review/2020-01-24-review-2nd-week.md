@@ -5,6 +5,7 @@ date: '2020-01-25'
 slug: 2nd-week
 categories: []
 tags: []
+show_toc: true
 ---
 
 # Media Literacy

@@ -5,6 +5,7 @@ date: '2020-01-24'
 slug: 1st-week
 categories: []
 tags: []
+show_toc: true
 ---
 
 # Some wrong comments:
