@@ -10,8 +10,5 @@ Hope you enjoy the journey. We will make it great together!
 
 --- Hongtao Hao
 
-https://c101.netlify.com
-{{< figure src="/media/qr_code.png"  height="300">}}
-
 
 

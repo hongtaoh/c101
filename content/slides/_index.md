@@ -1,5 +1,5 @@
 ---
-
+title: Slides
 ---
 
 - Slides of the 1st week [slides/first-week.html](/slides/friday.html)

@@ -33,3 +33,7 @@ footnotereturnlinkcontents = "↩"
       strikethrough = true
       table = true
       
+[markup.tableOfContents]
+  endLevel = 2
+  ordered = true
+  startLevel = 1

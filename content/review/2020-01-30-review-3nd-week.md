@@ -5,15 +5,18 @@ date: '2020-01-29'
 slug: 3rd-week
 categories: []
 tags: []
+show_toc: true
 ---
 
-## Reading For this week: [*McChesney: Policing the Unthinkable*](/files/2-week/McChesney.pdf). Read it carefully by yourself because questions in midterm and in final exam come from **both weekly lectures and reading assignments**. 
+# Note:
+
+Reading For this week: [*McChesney: Policing the Unthinkable*](/files/2-week/McChesney.pdf). Read it carefully by yourself because questions in midterm and in final exam come from **both weekly lectures and reading assignments**. 
 
 # Topic: Media owenership
 
-### Good source of information is important for people to elect for the President. 
+Good source of information is important for people to elect for the President. 
 
-### Media conglomerates is a result of deregulation of media business. 
+Media conglomerates are a result of deregulation of media business. 
 
 ## Possible negative influences of concentrated media ownership:
 
@@ -61,8 +64,22 @@ The trend toward media concentration:
 - Vertical merger: supplier and/or distributors; integrate productio and distribution;
 - Conglomerate merger: combination of media companies and/or non-media business
 
-### The federal govenment instituted policies to encourage diversity of ownership within the mass media industries in the 20th Century.
+The federal govenment instituted policies to encourage diversity of ownership within the mass media industries in the 20th Century.
 
 ## Barriers to entering the business 
 - Entry barriers into the legacy radio and legacy television broadcasting business have always been very high. 
 - However, the Internet decreases those barriers. 
+
+# Guest Lecture by Dean James Shanahan
+
+Dean [James Shanahan](https://mediaschool.indiana.edu/people/profile.html?p=jes30) talked about [conspiracy theory](https://en.wikipedia.org/wiki/Conspiracy_theory) in his lecture. He talked about reasons why people subscribe to conspiracy theory. He also gave some examples of conspiracy theory:
+
+- [US Moon landing](https://www.history.com/topics/space-exploration/moon-landing-1969) in 1969;
+
+- Autisim caused by vaccination;
+
+- Barack Obama citizenship, know as [birtherism](https://en.wikipedia.org/wiki/Barack_Obama_citizenship_conspiracy_theories);
+
+- [9/11](https://en.wikipedia.org/wiki/September_11_attacks);
+
+- [Assassination of John F. Kennedy](https://en.wikipedia.org/wiki/Assassination_of_John_F._Kennedy)

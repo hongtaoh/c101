@@ -1,7 +1,6 @@
 ---
-
+title: Class Review
 ---
 
-# Class Review 
 
 
