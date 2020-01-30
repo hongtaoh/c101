@@ -32,6 +32,9 @@ footnotereturnlinkcontents = "↩"
       footnote = true
       strikethrough = true
       table = true
+    [markup.goldmark.renderer]
+      hardWraps = false
+      unsafe = true
       
 [markup.tableOfContents]
   endLevel = 2
