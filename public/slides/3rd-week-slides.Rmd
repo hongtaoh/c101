@@ -26,7 +26,7 @@ background-position: 90% 20%
 ---
 class:inverse
 
-# Media journal assignment
+# Media Placement Exam
 
 - Steps: Canvas -> Quizzes -> Media Placement Exam
 
