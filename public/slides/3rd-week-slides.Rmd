@@ -21,8 +21,6 @@ background-position: 90% 20%
 
 - Review 3rd week classes
 
-- Quize for fun (if time allows)
-
 - What's Next
 
 ---
