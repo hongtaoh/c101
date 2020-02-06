@@ -7,6 +7,7 @@ categories: []
 tags: []
 show_toc: true
 ---
+# [Link](https://iu.co1.qualtrics.com/jfe/form/SV_4MDJNw0MVNQCnm5) to the 1st_and_2nd_week_quiz
 
 # Some wrong comments:
 - Media is biased

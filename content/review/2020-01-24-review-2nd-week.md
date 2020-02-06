@@ -8,6 +8,8 @@ tags: []
 show_toc: true
 ---
 
+# [Link](https://iu.co1.qualtrics.com/jfe/form/SV_4MDJNw0MVNQCnm5) to the 1st_and_2nd_week_quiz
+
 # Media Literacy
 The ability to access, analyze, evaluate, create, and act using all forms of communication.
 
