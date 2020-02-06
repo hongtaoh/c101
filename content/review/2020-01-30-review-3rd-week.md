@@ -7,7 +7,9 @@ categories: []
 tags: []
 show_toc: true
 ---
-# [Link](https://iu.co1.qualtrics.com/jfe/form/SV_9R1jShvSNajBbb7) to 3rd_week_quiz
+# Quiz
+
+Link to the [**1st_and_2nd_week_quiz**](https://iu.co1.qualtrics.com/jfe/form/SV_9R1jShvSNajBbb7)
 
 # Note
 
