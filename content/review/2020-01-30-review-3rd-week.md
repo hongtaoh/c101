@@ -9,7 +9,7 @@ show_toc: true
 ---
 # Quiz
 
-Link to the [**1st_and_2nd_week_quiz**](https://iu.co1.qualtrics.com/jfe/form/SV_9R1jShvSNajBbb7)
+Link to the [**3rd_week_quiz**](https://iu.co1.qualtrics.com/jfe/form/SV_9R1jShvSNajBbb7)
 
 # Note
 
