@@ -7,10 +7,7 @@ date: "2020-02-07 (updated: `r Sys.Date()`)"
 output:
   xaringan::moon_reader:
     lib_dir: libs
-    css: xaringan-themer.css
     nature:
-      highlightStyle: github
-      highlightLines: true
       countIncrementalSlides: false
 ---
 class: inverse
@@ -20,22 +17,27 @@ background-position: 90% 20%
 
 # Today's Schedule
 
-- A quiz
+- Information about the 4th week class review and quiz
 
 - Debate
 
 - What's Next
 
 ---
-class:inverse
+class: inverse
+background-image: url(https://media.giphy.com/media/l4FGKZalba09znIoE/giphy.gif)
+background-size: 30%
+background-position: 90% 20%
 
-# Quiz for fun
+# [Class review](/review/4th-week/)
 
-## In browser, type: kahoot.it
-
-
+# [Quiz](https://iu.co1.qualtrics.com/jfe/form/SV_bdWq90QTIYxKUyF)
 ---
 class: inverse
+background-image: url(https://media.giphy.com/media/eunDUhLbOz1vEZfFXl/giphy.gif)
+background-size: 30%
+background-position: 50% 80%
+
 # Debate
 
 - Four groups
@@ -101,7 +103,12 @@ Being a pirate is more interesting than being a ninja BECAUSE you can travel acr
 
 --
 
-However, being a ninja is pretty cool.  
+However, being a ninja is pretty cool, with all the martial arts capabilities.  
+
+--
+background-image: url(https://media.giphy.com/media/ErdfMetILIMko/giphy.gif)
+background-size: 60%
+background-position: 50% 80%
 ---
 class: inverse
 
@@ -116,24 +123,49 @@ class: inverse
 - However ...
 _________________________________________
 --
+background-image: url(https://media.giphy.com/media/UpD4avY27N2itwRxhK/giphy.gif)
+background-size: 30%
+background-position: 90% 10%
+--
 
 - The United States is the best country in the world BECAUSE ...
 - However ...
 _________________________________________
+
+--
+background-image: url(https://media.giphy.com/media/jQb1rVLGypcyNJ6xYa/giphy.gif)
+background-size: 30%
+background-position: 90% 10%
 --
 
 - Donald Trump is the best President I have ever seen BECAUSE ...
 - However ...
 ________________________
+
+--
+background-image: url(https://media.giphy.com/media/xTiTnHXbRoaZ1B1Mo8/giphy.gif)
+background-size: 30%
+background-position: 90% 10%
+
 --
 
 - Americans don't need to learn a second-language BECAUSE ...
 - However ...
 __________________
 --
+background-image: url(https://media.giphy.com/media/XFXLZ5Tf8ESDm/giphy.gif)
+background-size: 30%
+background-position: 90% 10%
+
+--
 
 - Men are more complicated than women BECAUSE ...
 - However ...
+__________________
+--
+background-image: url(https://media.giphy.com/media/WskFXkyq7VgxkivOqG/giphy.gif)
+background-size: 20%
+background-position: 90% 10%
 
 ---
 class: inverse
@@ -142,72 +174,26 @@ class: inverse
 
 --
 
-- Group 1 Opening Statement 
-
-```{r echo=FALSE}
-library(countdown)
-countdown(minutes = 0, seconds = 120,
-          left = 0, right = 0,
-          padding = "50px",
-          margin = "5%",
-          font_size = "6em")
-```
-
+- Group 1 Opening Statement: 2 Minutes
 --
 
-- Group 2 Opening Statement 
-
-```{r echo=FALSE}
-library(countdown)
-countdown(minutes = 0, seconds = 120,
-          left = 0, right = 0,
-          padding = "50px",
-          margin = "5%",
-          font_size = "6em")
-```
+- Group 2 Opening Statement: 2 Minutes
 
 
 --
 
 - Free Debate: Group 1 first.
 
-```{r echo=FALSE}
-library(countdown)
-countdown(minutes = 0, seconds = 240,
-          left = 0, right = 0,
-          padding = "50px",
-          margin = "5%",
-          font_size = "6em")
-```
+4 Minutes
 
 
 --
 
-- Group 1 Closing Statement
-
-```{r echo=FALSE}
-library(countdown)
-countdown(minutes = 0, seconds = 60,
-          left = 0, right = 0,
-          padding = "50px",
-          margin = "5%",
-          font_size = "6em")
-```
-
+- Group 1 Closing Statement: 1 Minute
 
 --
 
-- Group 2 Closing Statement
-
-```{r echo=FALSE}
-library(countdown)
-countdown(minutes = 0, seconds = 60,
-          left = 0, right = 0,
-          padding = "50px",
-          margin = "5%",
-          font_size = "6em")
-```
-
+- Group 2 Closing Statement: 1 Minute
 
 --
 
@@ -256,6 +242,7 @@ __________________
 - Homework should be banned and become illegal in all schools BECAUSE ...
 - However ...
 
+
 ---
 class: inverse
 
@@ -263,77 +250,30 @@ class: inverse
 
 --
 
-- Group 3 Opening Statement 
-
-```{r echo=FALSE}
-library(countdown)
-countdown(minutes = 0, seconds = 120,
-          left = 0, right = 0,
-          padding = "50px",
-          margin = "5%",
-          font_size = "6em")
-```
-
+- Group 3 Opening Statement: 2 Minutes
 --
 
-- Group 4 Opening Statement 
-
-```{r echo=FALSE}
-library(countdown)
-countdown(minutes = 0, seconds = 120,
-          left = 0, right = 0,
-          padding = "50px",
-          margin = "5%",
-          font_size = "6em")
-```
+- Group 4 Opening Statement: 2 Minutes
 
 
 --
 
 - Free Debate: Group 3 first.
 
-```{r echo=FALSE}
-library(countdown)
-countdown(minutes = 0, seconds = 240,
-          left = 0, right = 0,
-          padding = "50px",
-          margin = "5%",
-          font_size = "6em")
-```
+4 Minutes
 
 
 --
 
-- Group 3 Closing Statement
-
-```{r echo=FALSE}
-library(countdown)
-countdown(minutes = 0, seconds = 60,
-          left = 0, right = 0,
-          padding = "50px",
-          margin = "5%",
-          font_size = "6em")
-```
-
+- Group 3 Closing Statement: 1 Minute
 
 --
 
-- Group 4 Closing Statement
-
-```{r echo=FALSE}
-library(countdown)
-countdown(minutes = 0, seconds = 60,
-          left = 0, right = 0,
-          padding = "50px",
-          margin = "5%",
-          font_size = "6em")
-```
-
+- Group 4 Closing Statement: 1 Minute
 
 --
 
 - Comments from Group 1 & 2
-
 
 ---
 class: inverse
