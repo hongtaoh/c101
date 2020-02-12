@@ -1,20 +1,29 @@
 ---
-title: ''
-date: ''
+title: Review of the 5th Week Class (Wednesday (2/12))
+author: 'Hongtao Hao'
+date: '2020-02-12'
+slug: 4th-week
+categories: []
+tags: []
+show_toc: true
 ---
+# Quiz
+
+Link to the **5th_week_quiz** (coming soon...)
+
 # Topic: Journalism
 
 ## Basic Concepts:
 
-### Journalism is the only media enterprise that democracy absolutely requires
+#### Journalism is the only media enterprise that democracy absolutely requires.
 
-- The only media practice and busines specificaly mentioned and protected by US Constitution
+- The only media practice and business specifically mentioned and protected by US Constitution
 
 - What is news? Information is not necessarily news
  
-  - Process of gathering and verifying infor then reporting
+  - Process of gathering and verifying information then reporting
 
-  - Helps the public make sense of prominent people, important events, plolitical issues, cultural tendes, unusual happenings **so citizens can self-govern**
+  - Helps the public make sense of prominent people, important events, political issues, cultural trends, unusual happenings **so citizens can self-govern**
 
 ## Democratic Process
 
@@ -35,11 +44,14 @@ date: ''
 2. Neutrality
 
 - Belief that journalists should be observers who present facts without passing judgment on them
+
   - "Detached" writing style, using 3rd person in news stories
+
   - Attribution of sources
+  
   - Goal: to report objectively although no report is completely objective because it must be constructed
 
-## Reading: Elements of Journalism
+## From the Reading Material: [Elements of Journalism](https://www.americanpressinstitute.org/journalism-essentials/what-is-journalism/elements-journalism/)
 
 - First Obligation is to the Truth
 
@@ -60,8 +72,3 @@ date: ''
 - Exercise personal conscience (don't do something unethical)
 
 - Citizens' rights and responsibilities 
-
-
-
-
-
