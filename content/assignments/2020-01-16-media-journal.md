@@ -11,8 +11,8 @@ tags: []
 ### Best Practice: Think about the assignment prior to Jan. 17 discussion section so if needed, you can ask questions about the assignment during discussion.
 ### Submission: Upload to Canvas
 
-### You can download this template: [**Template**](/file/1-week/media_journal_template.docx)
-### You can download this example: [**Example**](/file/1-week/media_journal_example.pdf)
+### You can download this template: [**Template**](/files/1-week/media_journal_template.docx)
+### You can download this example: [**Example**](/files/1-week/media_journal_example.pdf)
 
 ---
 # Description:

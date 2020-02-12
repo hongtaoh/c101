@@ -3,12 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://c1010.netlify.com/review/</loc>
-    <lastmod>2020-02-06T00:00:00+00:00</lastmod>
+    <loc>https://c1010.netlify.com/assignments/news-lead/</loc>
+    <lastmod>2020-02-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://c1010.netlify.com/assignments/</loc>
+    <lastmod>2020-02-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://c1010.netlify.com/</loc>
+    <lastmod>2020-02-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://c1010.netlify.com/review/</loc>
     <lastmod>2020-02-06T00:00:00+00:00</lastmod>
   </url>
   
@@ -38,12 +48,12 @@
   </url>
   
   <url>
-    <loc>https://c1010.netlify.com/assignments/</loc>
-    <lastmod>2020-01-16T00:00:00+00:00</lastmod>
+    <loc>https://c1010.netlify.com/notes/anthony-%E6%95%99%E6%8E%88%E6%BC%94%E8%AE%B2/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://c1010.netlify.com/notes/anthony-%E6%95%99%E6%8E%88%E6%BC%94%E8%AE%B2/</loc>
+    <loc>https://c1010.netlify.com/notes/jim-%E6%95%99%E6%8E%88/</loc>
     <priority>0</priority>
   </url>
   
@@ -58,6 +68,10 @@
   
   <url>
     <loc>https://c1010.netlify.com/notes/week4-3/</loc>
+  </url>
+  
+  <url>
+    <loc>https://c1010.netlify.com/notes/week5-3/</loc>
   </url>
   
   <url>
