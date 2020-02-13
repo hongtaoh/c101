@@ -2,6 +2,8 @@
 title: Slides
 ---
 
+- Slides of the 5th week [slides/fifth-week.html](/slides/5th-week-slides.html)
+
 - Slides of the 4th week [slides/fourth-week.html](/slides/4th-week-slides.html)
 
 - Slides of the 3rd week [slides/third-week.html](/slides/3rd-week-slides.html)
