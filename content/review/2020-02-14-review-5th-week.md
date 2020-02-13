@@ -9,7 +9,7 @@ show_toc: true
 ---
 # Quiz
 
-Link to the **5th_week_quiz** (coming soon...)
+Link to the [**5th_week_quiz** ](https://iu.co1.qualtrics.com/jfe/form/SV_880bD0IunhmbpbL)
 
 # Topic: Journalism
 
