@@ -20,9 +20,13 @@ footnotereturnlinkcontents = "↩"
     url = "/slides/"
     weight = 2
 [[menu.main]]
-    name = "Class review"
+    name = "Class Review"
     url = "/review"
     weight = 3
+[[menu.main]]
+    name = "Grades Distribution"
+    url = "/grades"
+    weight = 4
 
 
 [markup]

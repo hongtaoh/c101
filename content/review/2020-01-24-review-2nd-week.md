@@ -1,5 +1,5 @@
 ---
-title: Review of Second Week Class (Wednesday (1/21)
+title: Review of the 2nd Week Class (Wednesday (1/21)
 author: 'Hongtao Hao'
 date: '2020-01-25'
 slug: 2nd-week

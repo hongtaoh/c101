@@ -1,5 +1,5 @@
 ---
-title: 6th Week_News_Lead_Due on Feb 24th 7 a.m.
+title: 6th Week_Scientific_Questions_Due on Feb 24th 7 a.m.
 author: ''
 date: '2020-02-17'
 slug: scientific-questions
