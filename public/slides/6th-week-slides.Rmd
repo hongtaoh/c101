@@ -230,11 +230,11 @@ class: inverse
 
 ## Family name, Initial. (Time). Article Title. _Journal name, Issue_ (Number), Page numbers.
 
-Wang, R., Yang, F., & Haigh, M. M. (2017). Let me take a selfie: Exploring the psychological effects of posting and viewing selfies and groupies on social media. *Telematics and Informatics, 34*(4), 274-283. 
+Wang, R., Yang, F., & Haigh, M. M. (2017). Let me take a selfie: Exploring the psychological effects of posting and viewing selfies and groupies on social media. *Telematics and Informatics, 34* (4), 274-283. 
 
 --
 
-Or:
+Too Complicated for you?
 
 Use Google Scholar. 
 
@@ -243,7 +243,7 @@ class: inverse
 
 # How does your questions change?
 
-- A new question emerge because of new information?
+- A new question emerged because of new information?
 
 - A different aspect because it is answered by the article?
 
