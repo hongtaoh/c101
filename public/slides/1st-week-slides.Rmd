@@ -212,5 +212,5 @@ class: inverse, center, middle
 
 Slides created via the R package [**xaringan**](https://github.com/yihui/xaringan).
 
-Slides source codes can be found  [**here**](/slides/friday.Rmd).
+Slides source codes can be found  [**here**](/slides/1st-week-slides.Rmd).
 
