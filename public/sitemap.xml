@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://c1010.netlify.com/assignments/analyzing-an-app/</loc>
+    <lastmod>2020-02-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://c1010.netlify.com/assignments/</loc>
+    <lastmod>2020-02-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://c1010.netlify.com/review/</loc>
     <lastmod>2020-02-26T00:00:00+00:00</lastmod>
   </url>
@@ -34,11 +44,6 @@
   
   <url>
     <loc>https://c1010.netlify.com/assignments/scientific-questions/</loc>
-    <lastmod>2020-02-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://c1010.netlify.com/assignments/</loc>
     <lastmod>2020-02-17T00:00:00+00:00</lastmod>
   </url>
   
