@@ -10,6 +10,9 @@ footnotereturnlinkcontents = "↩"
 [permalinks]
     post = "/post/:year/:month/:day/:slug/"
 
+[params]
+    footer = "Built with [Hugo](https://gohugo.io/). Framework copied from [Yihui Xie's personal website](https://github.com/rbind/yihui)"
+
 
 [[menu.main]]
     name = "Assignments"

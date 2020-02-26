@@ -3,12 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://c1010.netlify.com/grades/</loc>
-    <lastmod>2020-02-19T00:00:00+00:00</lastmod>
+    <loc>https://c1010.netlify.com/review/</loc>
+    <lastmod>2020-02-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://c1010.netlify.com/</loc>
+    <lastmod>2020-02-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://c1010.netlify.com/review/7th-week/</loc>
+    <lastmod>2020-02-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://c1010.netlify.com/grades/</loc>
     <lastmod>2020-02-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -29,11 +39,6 @@
   
   <url>
     <loc>https://c1010.netlify.com/assignments/</loc>
-    <lastmod>2020-02-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://c1010.netlify.com/review/</loc>
     <lastmod>2020-02-17T00:00:00+00:00</lastmod>
   </url>
   
@@ -125,6 +130,10 @@
   
   <url>
     <loc>https://c1010.netlify.com/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://c1010.netlify.com/about/</loc>
   </url>
   
   <url>
