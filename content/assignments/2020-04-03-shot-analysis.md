@@ -42,6 +42,6 @@ This assignment is worth 30 points:
 
 # NOTE:
 
-1. You need to complete the [worksheet]((/files/12-week/worksheet.docx/)). Be sure to address at least **10** shots. 
+1. You need to complete the [worksheet](/files/12-week/worksheet.docx/)). Be sure to address at least **10** shots. 
 
 2. Do not forget to write the "Analysis paragraph" at the end of the worksheet. 
