@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://c1010.netlify.com/review/</loc>
+    <lastmod>2020-04-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://c1010.netlify.com/</loc>
+    <lastmod>2020-04-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://c1010.netlify.com/review/13th-week/</loc>
+    <lastmod>2020-04-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://c1010.netlify.com/assignments/shot-analysis/</loc>
     <lastmod>2020-04-03T00:00:00+00:00</lastmod>
   </url>
@@ -13,17 +28,7 @@
   </url>
   
   <url>
-    <loc>https://c1010.netlify.com/</loc>
-    <lastmod>2020-04-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://c1010.netlify.com/assignments/analyzing-an-app/</loc>
-    <lastmod>2020-02-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://c1010.netlify.com/review/</loc>
     <lastmod>2020-02-26T00:00:00+00:00</lastmod>
   </url>
   
@@ -114,6 +119,11 @@
   
   <url>
     <loc>https://c1010.netlify.com/notes/sports-and-media/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://c1010.netlify.com/notes/week-12-notes/</loc>
     <priority>0</priority>
   </url>
   
