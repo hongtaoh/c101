@@ -32,7 +32,7 @@ class: inverse
 
 # Before doing the assignment
 
-- READ or at least SKIM THROUGH [This article](http://acagamic.com/game-design-course/the-formal-systems-of-games-and-game-design-atoms/) 
+- READ or at least SKIM THROUGH [This Article](http://acagamic.com/game-design-course/the-formal-systems-of-games-and-game-design-atoms/) 
 
 - WATCH [Professor Conway's Lecture Video](https://iu.instructure.com/courses/1861428)
 
@@ -42,7 +42,7 @@ class: inverse
 class: inverse
 background-image: url(https://media.giphy.com/media/cNMIl1nlovtL2/giphy.gif)
 background-size: 30%
-background-position: 50% 70%
+background-position: 50% 75%
 
 # Working title
 
@@ -50,7 +50,7 @@ Requirement: Your game’s title should communicate the gameplay (and, if possib
 
 Example: Super Mario Bros
 
-(BTW, if you haven't played Super Mario Bros before, try it [here](https://supermarioemulator.com/mario.php) )
+(BTW, if you haven't played Super Mario Bros before, try it [here](https://supermarioemulator.com/mario.php).)
 
 ---
 class: inverse
@@ -75,8 +75,8 @@ The Super Mario Bros game follows Mario's adventures in a fictional Mushroom Kin
 ---
 class: inverse
 background-image: url(https://media.giphy.com/media/hiNr8F4JsCcP6/giphy.gif)
-background-size: 20%
-background-position: 50% 70%
+background-size: 18%
+background-position: 50% 80%
 
 # Target audience
 
@@ -119,7 +119,7 @@ class: inverse
 
 Example:
 
-Anyone who plays this game is the player. The adventure unfolds in a fictional Mushroom Kingdom. The player gets points every time he jumps atop enemies, or hits special bricks marked with “?” from below. The player may feel happy and excited when he gets these points but may feel sad when he is killed by enemies. The player begins the game with excitement, and may feel frustrated when he fails to reach the end of a level. He may then feel satisfied when he reaches the end and get to the next level in the game. 
+Anyone who plays this game is the player. The adventure unfolds in a fictional Mushroom Kingdom. The player gets points every time he jumps atop enemies, or hits special bricks marked with “?” from below. The player may feel happy and excited when he gets these points but may feel sad when he is killed by enemies. The player begins the game with excitement, and may feel frustrated when he fails to reach the end of a level. The player may then feel satisfied when he reaches the end and get to the next level in the game. 
 
 ---
 class: inverse
@@ -133,7 +133,7 @@ Who will you need to make this game? Think background, design, and other experts
 
 Example:
 
-First, I need a programmer who can make my ideas into an interactive game. Second, I need to a sound designer who can create music and sound effects that fit and enhance the game. Third, I need to graphic designer who can design the appearance of Mario, opponents, Princess Toadstool, bricks, and other elements in the Mushroom Kingdom. 
+First, I need a programmer who can make my ideas into an interactive game. Second, I'll need to a sound designer who can create music and sound effects that fit and enhance my game. Third, I need a graphic designer who can design the appearance of Mario, opponents, Princess Toadstool, bricks, and other elements in the Mushroom Kingdom. 
 
 ---
 class: inverse
@@ -147,7 +147,7 @@ Electronic/digital or board/card game? PC or mobile? Table or phone? 2D or 3D?
 
 Example:
 
-Super Mario Bros will be a 2D digital game played on a video game console or a smart phone. 
+Super Mario Bros will be a 2D digital game played on a video game console or on a smart phone. 
 
 ---
 class: inverse
@@ -165,7 +165,7 @@ background-position: 90% 10%
 
 Example:
 
-The visual appearance of the Mushroom Kingdom will look very simple: the ground, the sky, the clouds, and trees. It also contains key elements in the game, for example, bricks marked with “?”, enemies, and cliffs. The visual style will be cartoony. The simple appearance will make the player focus more on the game itself rather than external elements, and thus enhance the player’s experience. 
+The visual appearance of the Mushroom Kingdom will look very simple: the ground, the sky, the clouds, and trees. It also contains key elements in the game, for example, bricks marked with “?”, enemies, and bottomless pits. The visual style will be cartoony. This simple appearance will keep the player focused on the game itself rather than on external elements, and thus enhance the player’s experience. 
 
 The audio will be short and rhythmic, keeping the player excited, immersed and motivated. 
 
@@ -185,7 +185,7 @@ Describe the game world and any narrative in player-relevant terms.
 
 Example:
 
-Mario collects points by hitting the special bricks. He doubles his body size if he gains a Super Mushroom. He gets additional lives in several ways, including collecting points and obtaining a Super Mushroom. The game ends when the player runs out of lives or time. 
+Mario collects points by hitting the special bricks. He doubles his body size if he gains a Super Mushroom. He gets additional lives in several ways, including by collecting points and by obtaining a Super Mushroom. The game ends when the player runs out of lives or time. 
 
 The game is comprised of eight worlds with each world containing four sub-level stages. Each final stage takes place in a castle. 
 
