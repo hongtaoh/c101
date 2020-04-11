@@ -3,12 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://c1010.netlify.com/review/</loc>
-    <lastmod>2020-04-10T00:00:00+00:00</lastmod>
+    <loc>https://c1010.netlify.com/assignments/game-design/</loc>
+    <lastmod>2020-04-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://c1010.netlify.com/assignments/</loc>
+    <lastmod>2020-04-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://c1010.netlify.com/</loc>
+    <lastmod>2020-04-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://c1010.netlify.com/review/</loc>
     <lastmod>2020-04-10T00:00:00+00:00</lastmod>
   </url>
   
@@ -18,12 +28,12 @@
   </url>
   
   <url>
-    <loc>https://c1010.netlify.com/assignments/shot-analysis/</loc>
-    <lastmod>2020-04-03T00:00:00+00:00</lastmod>
+    <loc>https://c1010.netlify.com/review/12th-week/</loc>
+    <lastmod>2020-04-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://c1010.netlify.com/assignments/</loc>
+    <loc>https://c1010.netlify.com/assignments/shot-analysis/</loc>
     <lastmod>2020-04-03T00:00:00+00:00</lastmod>
   </url>
   
