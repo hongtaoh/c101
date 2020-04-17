@@ -177,7 +177,7 @@ class: inverse
 ---
 class: inverse
 
-# [**Example: Applying TARES test**](/files/13-week/Example_Super_Mario_Bros.pdf)
+# [**Example: Applying TARES test**](/files/14-week/Example.pdf)
 
 ---
 class: inverse
