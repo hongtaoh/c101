@@ -2,6 +2,7 @@
 title: Slides
 ---
 
+- Slides of the 14th week [slides/fourteenth-week.html](/slides/14th-week-slides.html)
 - Slides of the 13th week [slides/thirteenth-week.html](/slides/13th-week-slides.html)
 - Slides of the 12th week [slides/twelfth-week.html](/slides/12th-week-slides.html)
 - Slides of the 6th week [slides/sixth-week.html](/slides/6th-week-slides.html)
