@@ -30,7 +30,10 @@ footnotereturnlinkcontents = "↩"
     name = "Grades Distribution"
     url = "/grades"
     weight = 4
-
+[[menu.main]]
+    name = "Lecture Videos"
+    url = "/videos"
+    weight = 5
 
 [markup]
    defaultMarkdownHandler = "goldmark"
