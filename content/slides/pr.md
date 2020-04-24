@@ -46,7 +46,7 @@ How can you convey the message to the audience? You don't need to answer all the
 
 1. Press release (in the hope that this release will be picked up by the news media and transformed into news reports)?
 
-    - Which media organizations will you be collaborating with? Idiana Student Daily? Herald Times? Or newspapers in Indy or even national news papers? What message will you send them to make them interested in your release?
+    - Which media organizations will you be collaborating with? *Indiana Daily Student*? *Herald Times*? Or newspapers in Indy or even national news papers? What message will you send them to make them interested in your release?
 
 2. Will you sponser special events here in Bloomington or other places? If no, why not? If yes, which event you are thinking of sponsoring? Why this one? How are you going to sponsor it so that you can receive favorable publicity (e.g., putting the large logo or name of your store above the stage?) See here for [a list of annual events](https://www.visitbloomington.com/events/annual-events/) held in Bloomington, IN.
 
