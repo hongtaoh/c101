@@ -111,7 +111,7 @@ Which media channels will you get your messages across to both the news agencies
 
 - Podcasts? (Audio only? Video?)
 
-If you want a PDF version of document, click [here](/files/15-week/PR_Slides.pdf/)
+If you want a PDF version of document, click [here](/files/15-week/PR_Slides.pdf/).
 
 # Finally
 
