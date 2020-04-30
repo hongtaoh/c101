@@ -1,6 +1,29 @@
 ---
 title: Preparing For Your Final Exam
 ---
+# Time, Place, Content, Form
+
+## Time
+
+Wednesday, May 6th. Exam window is 8am – 2pm Eastern Standard Time
+
+Once you open the exam, you have 2 hours, or until 2pm EST, whichever comes first.
+
+## Place
+
+Canvas (Online)
+
+## Content
+
+It only covers material from Week 9 to Week 15.
+
+## Form
+
+- Open book
+
+- Multiple choice & true/false questions
+
+
 # How to Prepare For The Final
 
 - [Study Guide](/files/finals/studyguide.pdf) by Professor Conway
