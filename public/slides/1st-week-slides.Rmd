@@ -203,7 +203,6 @@ background-position: 90% 10%
 - Media School Placement Exam next Friday (Jan. 24th)
 
 ---
-
 class: inverse, center, middle
 
 # Thanks!

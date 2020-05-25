@@ -11,7 +11,7 @@ footnotereturnlinkcontents = "↩"
     post = "/post/:year/:month/:day/:slug/"
 
 [params]
-    footer = "Built with [Hugo](https://gohugo.io/). Framework copied from [Yihui Xie's personal website](https://github.com/rbind/yihui)"
+    footer = "Built with [<u>Hugo</u>](https://gohugo.io/). Framework copied from [Yihui Xie's <u>personal website</u>.](https://github.com/rbind/yihui)<br />Content in [<u>GitHub Repo</u>.](https://github.com/hongtaoh/c101)"
 
 
 [[menu.main]]

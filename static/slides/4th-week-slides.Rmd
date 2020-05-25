@@ -301,7 +301,16 @@ class: inverse
   1. Reading: [The Elements of Journalism](https://www.americanpressinstitute.org/journalism-essentials/what-is-journalism/elements-journalism/)
   
   2. YouTube video: [Journalism on "Last Week Tonight"](https://www.youtube.com/watch?v=bq2_wSsDwkQ&feature=youtu.be)
-  
+
+---
+class: inverse, center, middle
+
+# Thanks!
+
+Slides created via the R package [**xaringan**](https://github.com/yihui/xaringan).
+
+Slides source codes can be found  [**here**](/slides/4th-week-slides.Rmd).
+
   
   
 

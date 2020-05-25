@@ -61,6 +61,13 @@ class: inverse
     
     - [Survey findings at a glance](https://www.freedomforuminstitute.org/wp-content/uploads/2019/09/FF_SOFA19_infographic.pdf)
 
+---
+class: inverse, center, middle
 
+# Thanks!
+
+Slides created via the R package [**xaringan**](https://github.com/yihui/xaringan).
+
+Slides source codes can be found  [**here**](/slides/3rd-week-slides.Rmd).
 
 

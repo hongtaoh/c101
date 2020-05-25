@@ -329,5 +329,13 @@ class: inverse
 
 - Take Media Placement Exam next Friday (1/31) here. 
 
+---
+class: inverse, center, middle
+
+# Thanks!
+
+Slides created via the R package [**xaringan**](https://github.com/yihui/xaringan).
+
+Slides source codes can be found  [**here**](/slides/2nd-week-slides.Rmd).
 
 
