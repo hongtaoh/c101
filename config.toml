@@ -38,6 +38,10 @@ footnotereturnlinkcontents = "↩"
     name = "Final Prep"
     url = "/final/"
     weight = 6
+[[menu.main]]
+    name = "Students Feedback"
+    url = "/feedback/"
+    weight = 7
 
 [markup]
    defaultMarkdownHandler = "goldmark"

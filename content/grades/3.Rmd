@@ -12,7 +12,7 @@ blogdown::html_page:
 ---
 
 ```{r echo=FALSE}
-grades <- read.csv("/Users/Tal/Desktop/ivy/static/data/grades_1_3.csv")
+grades <- read.csv("/Users/Tal/Desktop/c101/static/data/grades_1_3.csv")
 morning <- subset(grades, section==2)
 afternoon <- subset(grades,section == 1)
 ```

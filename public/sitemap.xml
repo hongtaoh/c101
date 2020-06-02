@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://c1010.netlify.com/</loc>
+    <lastmod>2020-06-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://c1010.netlify.com/feedback/</loc>
+    <lastmod>2020-06-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://c1010.netlify.com/slides/15-week-slides/</loc>
     <lastmod>2020-04-24T00:00:00+00:00</lastmod>
   </url>
@@ -14,11 +24,6 @@
   
   <url>
     <loc>https://c1010.netlify.com/assignments/</loc>
-    <lastmod>2020-04-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://c1010.netlify.com/</loc>
     <lastmod>2020-04-24T00:00:00+00:00</lastmod>
   </url>
   
