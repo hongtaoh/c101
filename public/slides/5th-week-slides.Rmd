@@ -175,8 +175,9 @@ class: inverse
 
 # 5. Roundup Leads
 
->Impress the reader with a long list
-Steven Spielberg would want to make a film of it. Jackie Chan wouldn't dare to fight at this scene. President Donald Trump would call it fake news. Kylie Jenner would want a selfie there. Even Sheldon, who claims to know a lot, would doubt his IQ after hearing it. 
+Impress the reader with a long list:
+
+>Steven Spielberg would want to make a film of it. Jackie Chan wouldn't dare to fight at this scene. President Donald Trump would call it fake news. Kylie Jenner would want a selfie there. Even Sheldon, who claims to know a lot, would doubt his IQ after hearing it. 
 
 An alien appeared in an Amazon package. 
 
