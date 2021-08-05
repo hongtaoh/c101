@@ -17,6 +17,15 @@ kable(dt) %>%
 ```
 
 # Students Comments
+
+To get the full report:
+
+<!-- https://coursequestionnaire.iu.edu/Blue/a.aspx?l=1620_4_AAAAAAAAM3w -->
+
+- [Section of 8451](/files/feedback/8451.pdf)
+
+- [Section of 8452](/files/feedback/8452.pdf)
+
 ## Block 1
 
 ![](/media/2-1.png){height=600, width=900}
